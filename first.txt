@@ -1,1 +1,5 @@
 はじめてのGit管理
+これからgitの学習を進めます
+・git add
+・git commit
+・git push
